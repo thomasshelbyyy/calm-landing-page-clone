@@ -1,0 +1,62 @@
+[
+    {
+        "triger": "sleep",
+        "title": "Join millions of sound sleepers worldwide.",
+        "text": "Our 300+ Sleep Stories, sleep meditations, and calming music will guide you off to sleep quickly and naturally. Just press play and drift away.",
+        "audio_title": "Dream with Me",
+        "narrator": "Harry Styles",
+        "audio_src": "/Calm-The-1-App-for-Meditation-and-Sleep.mp3",
+        "image": "/player-harry.jpg",
+        "image_subtitle": "Fall asleep and fall in love with the dreamy voice of Harry Styles."
+    },
+    {
+        "triger": "stress-anxiety",
+        "title": "Get in-the-moment relief from everyday stress and anxiety.",
+        "text": "Our clinical experts and mindfulness teachers are here to support you, with a wide range of programs for work stress, acute anxiety, negative thoughts, and more.",
+        "audio_title": "Overcome Stress and Anxiety",
+        "narrator": "Dr. Julie Smith",
+        "audio_src": "/Calm-The-1-App-for-Meditation-and-Sleep.m4a",
+        "image": "/player-stress.jpg",
+        "image_subtitle": "11 tools to reclaim your calm"
+    },
+    {
+        "triger": "focus",
+        "title": "Tame the distraction dragon.",
+        "text": "Sharpen your focus with soundscapes and music carefully crafted to help you tune out distractions and tap into a state of flow.",
+        "audio_title": "Finding Focus",
+        "narrator": "Jeff Warren",
+        "audio_src": "/Calm-The-1-App-for-Meditation-and-Sleep_2.m4a",
+        "image": "/player-focus.jpg",
+        "image_subtitle": "Practice simply paying attention"
+    },
+    {
+        "triger": "relaxation",
+        "title": "We don't call it Calm for nothing.",
+        "text": "Open the app and enter a sanctuary of rest and relaxation, from soothing soundscapes to calming music to hundreds of titles for deep and peaceful sleep.",
+        "audio_title": "Rain on Leaves",
+        "narrator": "",
+        "audio_src": "/Calm-The-1-App-for-Meditation-and-Sleep_2.mp3",
+        "image": "/player-relaxation.jpg",
+        "image_subtitle": "Soothing sounds of rainfall"
+    },
+    {
+        "triger": "building-habits",
+        "title": "You're in the right place.",
+        "text": "Our daily programs make it easy to get started and stay on track, and our instructors are here for you every step of the way. Choose from 4 daily programs, each designed to fit into your lifestyle in practical ways.",
+        "audio_title": "Own the Day",
+        "narrator": "Jay Shetty",
+        "audio_src": "/Calm-The-1-App-for-Meditation-and-Sleep_3.mp3",
+        "image": "/player-habits.jpg",
+        "image_subtitle": "Tiny choices and small actions that can lead to lifelong change"
+    },
+    {
+        "triger": "physical-wellbeing",
+        "title": "A healthier relationship with your body is possible.",
+        "text": "Start with the Daily Move, a fresh mindful movement video released each day, as well as guided audio sessions for walking and pain",
+        "audio_title": "Mindful Walking",
+        "narrator": "Tamara Levitt",
+        "audio_src": "/Calm-The-1-App-for-Meditation-and-Sleep_3.m4a",
+        "image": "/player-physical.jpg",
+        "image_subtitle": "A guided meditation for walking mindfully"
+    }
+]
